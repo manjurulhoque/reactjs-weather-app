@@ -1,7 +1,7 @@
 # React Weather App
 
 ![react-weather-app]
-(weather.png)
+<img src="weather.png" height=400 >
 
 ## Setup
 
