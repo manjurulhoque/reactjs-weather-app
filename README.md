@@ -1,7 +1,7 @@
 # React Weather App
 
 ![react-weather-app]
-(https://github.com/manjurulhoque/reactjs-weather-app/blob/master/weather.png)
+(weather.png)
 
 ## Setup
 
