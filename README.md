@@ -8,8 +8,8 @@
 Clone the project, install the dependencies, and run the project.
 
 ```
-git clone https://github.com/yahilmadakiya/react-weather-app.git
-cd react-weather-app
+https://github.com/manjurulhoque/reactjs-weather-app.git
+cd reactjs-weather-app
 yarn # or npm install
 yarn start # or npm run start
 ```
